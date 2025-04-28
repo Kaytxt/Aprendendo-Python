@@ -1,0 +1,10 @@
+frase = "Curso em Video Python"
+print(frase[::2])
+print(frase.count('o'))
+print(len(frase))
+print(len(frase.strip()))
+print(frase.replace('Python', 'Android'))
+print('Curso' in frase)
+dividido = frase.split()
+print(frase.split())
+print(dividido [0] [1])
