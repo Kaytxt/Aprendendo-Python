@@ -6,7 +6,7 @@ for z in range (0, 5):
         pm = p
     if p < pmn:
         pmn = p
-print('o peso mario é {} e o peso menor é {}'.format(pm, pmn))
+print('o peso maior é {} e o peso menor é {}'.format(pm, pmn))
   
 
 
